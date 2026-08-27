@@ -83,10 +83,8 @@ RetailPulse-SQL/
 │   └── 06_advanced_sql.sql
 │
 ├── analysis/
-│   └── 07_business_analysis.sql
-│
-└── docs/
-    └── interview_questions.md
+    └── 07_business_analysis.sql
+
 
 ```
 ---
